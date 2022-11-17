@@ -74,12 +74,6 @@ void Boom()
 
     cout<<ans<<dl;
 
-
-
-
-
-
-
 }
 
 int main()

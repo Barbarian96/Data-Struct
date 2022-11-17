@@ -42,6 +42,8 @@ const double PI = acos(-1);
 ll int hp = 1e9+7;
 
 
+//  O(Nlog(n))
+
 struct Node
 {
     int key;
